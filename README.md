@@ -15,12 +15,12 @@
 
 ## 目录
 
-| # | 章节 | 内容 | 一句话总结 |
-|---|------|------|-----------|
-| 1 | [大模型发展史](docs/01-history.md) | 从感知机到 ChatGPT | AI 怎么从"人工智障"变成"鸡你太美" |
-| 2 | [CNN 和 RNN](docs/02-cnn-rnn.md) | 卷积神经网络 + 循环神经网络 | 一个看图，一个读文 |
-| 3 | [Diffusion 扩散模型](docs/03-diffusion.md) | 从噪声中生成图片 | 从一团噪点里变出篮球 |
-| 4 | [Transformer 架构](docs/04-transformer.md) | 注意力机制 + 自注意力 | 大模型的心脏，ikun 的核心技术 |
+| # | 章节 | 内容 | 一句话总结 | 图示预览 |
+|---|------|------|-----------|---------|
+| 1 | [大模型发展史](docs/01-history.md) | 从感知机到 ChatGPT | AI 怎么从"人工智障"变成"鸡你太美" | <img src="docs/images/01_history.png" width="200" /> |
+| 2 | [CNN 和 RNN](docs/02-cnn-rnn.md) | 卷积神经网络 + 循环神经网络 | 一个看图，一个读文 | <img src="docs/images/02_cnn_rnn.png" width="200" /> |
+| 3 | [Diffusion 扩散模型](docs/03-diffusion.md) | 从噪声中生成图片 | 从一团噪点里变出篮球 | <img src="docs/images/03_diffusion.png" width="200" /> |
+| 4 | [Transformer 架构](docs/04-transformer.md) | 注意力机制 + 自注意力 | 大模型的心脏，ikun 的核心技术 | <img src="docs/images/04_transformer.png" width="200" /> |
 
 ## 阅读建议
 

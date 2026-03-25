@@ -2,6 +2,8 @@
 
 > 从一团噪点里变出篮球
 
+![Diffusion图示](images/03_diffusion.png)
+
 ---
 
 ## 一句话版本

@@ -2,6 +2,8 @@
 
 > 大模型的心脏，ikun 的核心技术
 
+![Transformer图示](images/04_transformer.png)
+
 ---
 
 ## 一句话版本
